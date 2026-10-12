@@ -1,0 +1,6 @@
+type = module
+name = Bundle Copy
+description = Import and exports bundles through the UI.
+version = BACKDROP_VERSION
+backdrop = 1.x
+package = Fields
